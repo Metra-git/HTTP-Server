@@ -1,0 +1,22 @@
+
+# CMake build directories
+build/
+build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.dylib
+*.out
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Executable
+server
+
